@@ -1,3 +1,3 @@
 # SevenM
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sarawut124/SevenM/refs/heads/main/main.lua'))()
